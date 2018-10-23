@@ -1,1 +1,1 @@
-# Hand Sign Recognition Using CNN
+# American Sign Language Translation using CNN
